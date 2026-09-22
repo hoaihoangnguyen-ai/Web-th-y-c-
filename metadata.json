@@ -1,0 +1,8 @@
+{
+  "name": "Trợ Lý Quản Trị Học Tập – Hoàng Thị Hoài",
+  "description": "Hệ thống quản trị học tập môn Anh văn THCS dành cho Cô Hoàng Thị Hoài - THCS Nguyễn Thái Bình",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
